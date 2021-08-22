@@ -1,0 +1,15 @@
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\bin\Debug\net5.0\Application.deps.json
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\bin\Debug\net5.0\Application.dll
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\bin\Debug\net5.0\ref\Application.dll
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\bin\Debug\net5.0\Application.pdb
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.dll
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\ref\Application.dll
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.pdb
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\bin\Debug\net5.0\Domain.dll
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\bin\Debug\net5.0\Domain.pdb
+E:\Personal Projects\ASP.NET Core\CleanArchitectures\Training\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
