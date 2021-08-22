@@ -28,9 +28,9 @@ namespace Api.Controllers
         }
 
         [HttpPut]
-        public Task<TaskModel> UpdateTask(TaskModel task)
+        public void UpdateTask(TaskModel task)
         {
-            return (Task<TaskModel>)_taskService.UpdateTask(task);
+            _taskService.UpdateTask(task);
         }
 
         [HttpPost]
